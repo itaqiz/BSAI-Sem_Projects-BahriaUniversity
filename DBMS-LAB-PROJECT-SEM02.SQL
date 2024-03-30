@@ -1,5 +1,5 @@
 -- Project Name: Movie Theater Booking System
--- Subject: Database Management System
+-- Subject: Database Management System (Semester-Project)
 -- Name: Muhammad Taqui
 -- Due Date: January 8th, 2023 @ 12:30 AM
 
