@@ -14,4 +14,4 @@ This repository contains reports and code files related to my semester projects 
 
 ## ⚙️ Usage
 
-To view and use the code files, clone this repository and navigate to the respective project directory:
+To view and use the code files, clone this repository and navigate to the respective project directory.
